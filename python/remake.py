@@ -1,0 +1,5 @@
+from listas import *
+
+frases = []
+
+

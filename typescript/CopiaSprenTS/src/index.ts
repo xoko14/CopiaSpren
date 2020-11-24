@@ -37,6 +37,8 @@ class CopiaSprenTs extends Command {
     console.log(chalk.bold('Nome: ') + dic.name);
     console.log(chalk.bold('Descripción: ') + dic.description);
     console.log(chalk.bold('Autor/a: ') + dic.author);
+    console.log(`${dic.sujetos.length} suxeitos\n${dic.verbos.length} verbos\n${dic.ccs.length} complementos circunstanciais`);
+    
 
     console.log('\n')
     let categ = flags.categ
@@ -105,7 +107,7 @@ class CopiaSprenTs extends Command {
       }
     }
 
-    console.log(frases.length)
+    console.log(chalk.green(`\nXeradas correctamente ${frases.length} frases`))
 
     function randomItem(list:string[]) {
       return list[Math.floor((Math.random() * list.length))];

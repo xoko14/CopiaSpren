@@ -15,11 +15,11 @@ Ferramenta que facilita facer copias por faltas de ortografía
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g CopiaSprenTS
+$ npm install -g CopiaSpren
 $ copiaspren COMMAND
 running command...
 $ copiaspren (-v|--version|version)
-CopiaSprenTS/1.0.0 win32-x64 node-v12.18.4
+CopiaSpren/1.0.0 linux-x64 node-v10.19.0
 $ copiaspren --help [COMMAND]
 USAGE
   $ copiaspren COMMAND

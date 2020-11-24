@@ -19,7 +19,7 @@ $ npm install -g CopiaSprenTS
 $ copiaspren COMMAND
 running command...
 $ copiaspren (-v|--version|version)
-CopiaSprenTS/1.0 win32-x64 node-v12.18.4
+CopiaSprenTS/1.0.0 win32-x64 node-v12.18.4
 $ copiaspren --help [COMMAND]
 USAGE
   $ copiaspren COMMAND

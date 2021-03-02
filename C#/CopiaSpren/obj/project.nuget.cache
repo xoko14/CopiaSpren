@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BCKztrZvzg1tMvppYNyngIarM7Vn8axWNBv6PUyZZReYot9yY35rdYDSkHR6RXz1QCSRZyuwlneTmfvytcvHNw==",
+  "dgSpecHash": "5FG25MAgXbk0BEfdYu/G2JHrc/8kZEMzetE1eGk0mE1+LJPHbjE601L/NZhXlQuAaIMnswu2oiDA6hWyUddO1A==",
   "success": true,
   "projectFilePath": "B:\\Documentos\\GitHub\\CopiaSpren\\C#\\CopiaSpren\\CopiaSpren.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Xoko14\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
